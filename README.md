@@ -12,5 +12,5 @@ which can enable to
 - Delete items
 - Store recorded information into JSON file
 
-N.B: You are allowed to modify contribute in this project.
+N.B: You are allowed to contribute in this project.
 
